@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/aef5ddc2-6097-4ee9-871e-edfa6f458a5e
 
 
 
-
+Все экраны приложений реализованы как отдельные функции compasable и находятся в папке activity
 
 
 
